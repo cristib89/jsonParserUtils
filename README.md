@@ -1,4 +1,4 @@
-# jsonParserUtils
+# jsonParserUtils [![Build Status](https://api.travis-ci.org/cristib89/jsonParserUtils.svg?branch=master)](https://travis-ci.org/cristib89/jsonParserUtils)
 
 ### Description: 
 
