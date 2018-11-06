@@ -40,3 +40,4 @@ utils.extract(json, "numberval"); // returns Long value
 utils.cardinality(json, "tags"); // returns 2 
 utils.extract(json, "tags.2.tag"); // returns random2
 ```
+Further improvements might be needed so that it resembles ESQL a bit
